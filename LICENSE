@@ -229,8 +229,8 @@ terms of section 4, provided that you also meet all of these conditions:
 
     d) If the work has interactive user interfaces, each must display
     Appropriate Legal Notices; however, if the Program has interactive
-    interfaces that do not display Appropriate Legal Notices, your
-    work need not make them do so.
+    interfaces that do not display Appropriate Legal Notices, your work
+    need not make them do so.
 
   A compilation of a covered work with other separate and independent
 works, which are not by their nature extensions of the covered work,
@@ -632,7 +632,7 @@ state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
     <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
+    Copyright (C) <year>  graynet-dev & DeepSeek
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -652,7 +652,7 @@ Also add information on how to contact you by electronic and paper mail.
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    <program>  Copyright (C) <year>  <name of author>
+    <program>  Copyright (C) <year>  graynet-dev & DeepSeek
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
